@@ -1,1 +1,1 @@
-Change from main
+Changed message in both main and feature branches.
